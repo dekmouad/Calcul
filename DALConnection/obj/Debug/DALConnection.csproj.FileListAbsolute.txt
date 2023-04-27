@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Calculator\DALConnection\bin\Debug\DALConnection.dll
+C:\Users\Administrator\source\repos\Calculator\DALConnection\bin\Debug\DALConnection.pdb
+C:\Users\Administrator\source\repos\Calculator\DALConnection\obj\Debug\DALConnection.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Calculator\DALConnection\obj\Debug\DALConnection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Calculator\DALConnection\obj\Debug\DALConnection.dll
+C:\Users\Administrator\source\repos\Calculator\DALConnection\obj\Debug\DALConnection.pdb

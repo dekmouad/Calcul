@@ -1,0 +1,1 @@
+select * from Calculator_Table
